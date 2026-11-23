@@ -22,7 +22,7 @@
 </table>
 
 <p align="center">
-  <img src="Ảnh chụp màn hình 2026-11-23 223446.png" width="500">
+  <img src="Ảnh chụp màn hình 2026-11-23 223820.png" width="500">
 </p>
 </table>
 
